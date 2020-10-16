@@ -1,0 +1,5 @@
+{
+    "A sentence from JSON": "Une phrase depuis JSON",
+    "Find your way, :name": "Trouve ta voie, :name",
+    "Discover these :count new posts": "{0} Restez à l'affut des prochains articles|[1] Découvrez ce nouvel article|[2,*] Découvrez ces :count nouveaux articles"
+}
