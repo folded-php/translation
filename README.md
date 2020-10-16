@@ -2,6 +2,8 @@
 
 Translate terms for your web app.
 
+[![Build Status](https://travis-ci.com/folded-php/translation.svg?branch=main)](https://travis-ci.com/folded-php/translation) [![Maintainability](https://api.codeclimate.com/v1/badges/3010c88a7ae56d0c7165/maintainability)](https://codeclimate.com/github/folded-php/translation/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/translation)](https://www.tickgit.com/browse?repo=github.com/folded-php/translation)
+
 ## Summary
 
 - [About](#about)
