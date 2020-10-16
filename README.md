@@ -2,7 +2,7 @@
 
 Translate terms for your web app.
 
-[![Build Status](https://travis-ci.com/folded-php/translation.svg?branch=main)](https://travis-ci.com/folded-php/translation) [![Maintainability](https://api.codeclimate.com/v1/badges/3010c88a7ae56d0c7165/maintainability)](https://codeclimate.com/github/folded-php/translation/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/translation)](https://www.tickgit.com/browse?repo=github.com/folded-php/translation)
+[![Packagist License](https://img.shields.io/packagist/l/folded/translation)](https://github.com/folded-php/translation/blob/master/LICENSE) [![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/folded/translation)](https://github.com/folded-php/translation/blob/master/composer.json#L14) [![Packagist Version](https://img.shields.io/packagist/v/folded/translation)](https://packagist.org/packages/folded/translation) [![Build Status](https://travis-ci.com/folded-php/translation.svg?branch=main)](https://travis-ci.com/folded-php/translation) [![Maintainability](https://api.codeclimate.com/v1/badges/3010c88a7ae56d0c7165/maintainability)](https://codeclimate.com/github/folded-php/translation/maintainability) [![TODOs](https://img.shields.io/endpoint?url=https://api.tickgit.com/badge?repo=github.com/folded-php/translation)](https://www.tickgit.com/browse?repo=github.com/folded-php/translation)
 
 ## Summary
 
